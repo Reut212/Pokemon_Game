@@ -4,7 +4,7 @@ This project represents a Pokemon game.
 In this game our goal is to get as much Pokemons as we can.
 In order to catch a Pokemon we need to send our Agent towards 
 this Pokemon so he can catch him.
-When we catch a Pokemon , A new one is show up in the game randomly.
+When we catch a Pokemon , A new one shows up in the game randomly.
 
 This game in based on Classes that we created such as:
 
