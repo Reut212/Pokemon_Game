@@ -1,4 +1,4 @@
-# Welcome to Ex2 Project – weighted & directed Graph. 
+# Weighted & directed Graph. 
 
 This project represents a Pokemon game.
 In this game our goal is to get as much Pokemons as we can.
